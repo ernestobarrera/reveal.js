@@ -61,7 +61,8 @@
       .menubar > *:first-child:last-child.right {
         margin-right: 0; }
   .menubar a {
-    color: inherit;
+       /*  color: inherit; */
+   color:rgb(255, 90, 1);
     opacity: 0.5; }
     .menubar a:hover {
       color: inherit;
